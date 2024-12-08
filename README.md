@@ -21,4 +21,4 @@ Pilihan 5 - Keluar Program: Program berhenti dan keluar dari menu pilihan.
 Selesai: Program telah selesai dijalankan.
 Tampilkan pesan Daftar Kosong: Program menampilkan pesan "Daftar Kosong".
 Tampilkan Seluruh Data Mahasiswa: Program menampilkan semua data mahasiswa yang ada di daftar.
-Tampilkan Pesan Tidak Ditemukan: Program menampilkan pesan "Data tidak ditemukan".
+Tampilkan Pesan Tidak Ditemukan: Program menampilkan pesan "Data tidak ditemukan".
